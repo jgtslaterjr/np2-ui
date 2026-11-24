@@ -1,6 +1,6 @@
 {
- "version": "1.9.8",
- "minHelperApi": 2,
- "base": "1.9.8/",
- "publishedAt": "2026-11-21T12:03:11.736Z"
+ "version": "1.11.1",
+ "minHelperApi": 3,
+ "base": "1.11.1/",
+ "publishedAt": "2026-11-24T13:33:34.015Z"
 }
