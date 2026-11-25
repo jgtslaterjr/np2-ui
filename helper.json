@@ -1,10 +1,10 @@
 {
- "version": "1.11.1",
+ "version": "1.11.3",
  "api": 3,
  "platform": "win32",
- "file": "NP2-Link-Setup-1.11.1.exe",
- "size": 85897216,
- "sha256": "8c1516958de10c9285f2865f1eb6c6389376453a4ceac620c11f84b4054e9e1d",
- "url": "https://github.com/jgtslaterjr/np2-ui/releases/download/helper-v1.11.1/NP2-Link-Setup-1.11.1.exe",
- "publishedAt": "2026-11-24T13:39:38.975Z"
+ "file": "NP2-Link-Setup-1.11.3.exe",
+ "size": 85897728,
+ "sha256": "ceb0ff11b09b1d7d40a9d24e7a97013071850d7b6c9f5b032c7f67ed504e228a",
+ "url": "https://github.com/jgtslaterjr/np2-ui/releases/download/helper-v1.11.3/NP2-Link-Setup-1.11.3.exe",
+ "publishedAt": "2026-11-25T16:38:46.970Z"
 }

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blackout</title>
+<meta name="np2-token" content="__NP2_TOKEN__">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'self'; frame-src 'self'; base-uri 'none'; form-action 'none'">
+<link rel="stylesheet" href="fonts/fonts.css">
+<style>
+/* A black screen for a session in a dark room. Only the main display shows a dim progress line. */
+html, body { height: 100%; margin: 0; background: #000; color: #3a3f47; cursor: none; overflow: hidden; color-scheme: dark; }
+body { display: grid; place-content: center; text-align: center; font: 600 22px/1.4 "JetBrains Mono", Consolas, monospace; font-variant-numeric: tabular-nums; user-select: none; }
+.name { font: 600 17px/1.35 "Source Sans 3", "Segoe UI", sans-serif; margin-bottom: 6px; max-width: 80vw; overflow-wrap: anywhere; }
+.name .stage { display: block; font-weight: 500; font-size: 14px; }
+.sub { font: 500 13px/1.4 "Source Sans 3", "Segoe UI", sans-serif; margin-top: 8px; transition: opacity 1.5s; }
+.sub.gone { opacity: 0; }
+[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<div class="name" id="name" hidden></div>
+<div id="line" hidden></div>
+<div class="sub" id="sub" hidden>Click or press any key to return</div>
+<script src="bridge.js"></script>
+<script src="blackout.js"></script>
+</body>
+</html>
