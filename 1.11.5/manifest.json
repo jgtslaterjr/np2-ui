@@ -1,0 +1,23 @@
+{
+ "name": "np2-ui",
+ "version": "1.11.5",
+ "minHelperApi": 3,
+ "files": {
+  "app.js": "abe326219b90250f230c7e6cd6505854c675b2574c249e5e664477a11d092540",
+  "blackout.html": "50d09dd6536d60258d45bc3d3fee65c5da6e45bacd93ce6f1216ca2bf02f4aa0",
+  "blackout.js": "fd4e3991b3cd4e7e2574c126697f41aadd859989ee17ebf7c359fcbc42248104",
+  "bridge.js": "d6d9042fe9fe604f06fd55e1ad01826cfdc01f2bec654c56eee95cbf7cf31a18",
+  "fonts/barlow-semi-condensed-latin-500-normal.woff2": "0d7513795eaf8fdab7f340144841bd2d9fac7d9303c03aa6b525a2c908e9b371",
+  "fonts/barlow-semi-condensed-latin-600-normal.woff2": "f158417e9207b5362f9b71a2fe779ce5bb836ad972f38445c3163af39d2c998d",
+  "fonts/barlow-semi-condensed-latin-700-normal.woff2": "fb958c8c20a05552ac8a85d925d96028d52565792650e941a5fe96b6997aa5cb",
+  "fonts/fonts.css": "125ec5be0119191ee5229327b3b3d60bd94527040dfc0d85101de12169c535f9",
+  "fonts/jetbrains-mono-latin-400-normal.woff2": "14425ba9c695763c1547f48a206b7aa60350a33ae23de09f0407877f3fcd89eb",
+  "fonts/jetbrains-mono-latin-600-normal.woff2": "400c6bfda18d5d14acad1c15d6dcb9f8e13c015e7286317e0b9a482539bef147",
+  "fonts/source-sans-3-latin-400-normal.woff2": "0f73f35e08cde0a2f10c109c6e01d71459d97e4099ecd9a50f1b6c0209e4de2b",
+  "fonts/source-sans-3-latin-600-normal.woff2": "14527d193b0e30bc32ef931549a246cdfd286573bb12869b7e052b8101a39d38",
+  "icon.png": "26d05065378a7c05c08694893f4a6b7d38ec4369837af7bc5055aa5852168376",
+  "index.html": "b2650214575c582c12496a55b3c97fa43e8d488afb1e05cb082f59c6e752d31c",
+  "run.html": "f66970d515d159054a25671815b5c34ea25f900371b7eb08c07c29c770c82ef0",
+  "run.js": "e6a2d972e60c74dfe2d0d4ac509f4fd4e6fe2b545588cda6203d173952566997"
+ }
+}
